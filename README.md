@@ -104,8 +104,3 @@ flowchart LR
 
 ---
 
-## 👨‍🏫 Author
-**Your Name**  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio.com)  
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
