@@ -1,4 +1,4 @@
-# 📚 Online Course Attendance System
+# 📚 Simple Online Attendance System
 
 ## 📝 Overview
 This project is a **web-based attendance system** built with **Python (Flask)** and **Google Sheets API**.  
